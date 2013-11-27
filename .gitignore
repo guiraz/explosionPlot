@@ -1,0 +1,18 @@
+## PDF Files ##
+*.pdf
+
+## Build Folder ##
+vi/*
+
+## Qt User File ##
+*.user
+
+## Mesh Files ##
+mesh/
+*.mesh
+
+## Gedit Temp File ##
+*~
+
+## CMakeList ##
+CMakeLists.txt
